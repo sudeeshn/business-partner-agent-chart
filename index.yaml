@@ -3,7 +3,7 @@ entries:
   bpa:
   - apiVersion: v2
     appVersion: 0.11.0
-    created: "2022-07-18T13:18:26.422853396Z"
+    created: "2022-07-19T09:59:37.989396352Z"
     dependencies:
     - condition: postgresql.enabled
       name: postgresql
@@ -11,7 +11,7 @@ entries:
       version: 10.16.2
     description: The BPA allows organizations to verify, hold, and issue verifiable
       credentials.
-    digest: 3eb44fcf5e37c98dee995a24938ee89771153f99d702d333c8afd064a30e7571
+    digest: 1319c0550e43c9679c2a1f29619ab90f2685d38f97b43c67ed0fb55a0e159ee0
     home: https://github.com/hyperledger-labs/business-partner-agent-chart
     maintainers:
     - email: philipp.etschel@ch.bosch.com
@@ -34,6 +34,6 @@ entries:
     - https://github.com/hyperledger-labs/business-partner-agent-chart
     type: application
     urls:
-    - https://github.com/sudeeshn/business-partner-agent-chart/releases/download/bpa-0.11.4/bpa-0.11.4.tgz
-    version: 0.11.4
-generated: "2022-07-18T13:18:26.422868897Z"
+    - https://github.com/sudeeshn/business-partner-agent-chart/releases/download/bpa-0.11.5/bpa-0.11.5.tgz
+    version: 0.11.5
+generated: "2022-07-19T09:59:37.989414053Z"
